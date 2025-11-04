@@ -1,9 +1,10 @@
 * {
     box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .container {
-    width: 800px;
+    width: 1000px;
     margin: 0 auto;
     border: 1px solid red;
 }
@@ -16,12 +17,12 @@
 }
 
 .image {
-    width: 220px;
+    width: 250px;
 }
 
 .title {
     max-width: 300px;
-    margin: 50px 0 auto;
+    margin: 75px 0 auto;
     font-weight: normal;
 }
 
