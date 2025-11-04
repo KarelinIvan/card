@@ -42,3 +42,7 @@
     color: rgb(10, 177, 155);
     font-size: 50px;
 }
+
+.fa:hover {
+    background-color: #950b0b;
+}
