@@ -6,7 +6,7 @@
 .container {
     width: 1000px;
     margin: 0 auto;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 .item {
@@ -30,6 +30,7 @@
     max-width: 400px;
     line-height: 25px;
     font-weight: normal;
+    text-align: justify;
 }
 
 .buttom {
